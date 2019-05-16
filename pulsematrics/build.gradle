@@ -1,4 +1,2 @@
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.sagarjain2'
 configurations.maybeCreate("default")
 artifacts.add("default", file('pulsematrics.aar'))

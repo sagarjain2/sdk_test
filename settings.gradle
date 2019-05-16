@@ -1,1 +1,1 @@
-include ':app', ':pulsematrics'
+include ':app', ':pulsematrics', ':mylibrary'
